@@ -4,12 +4,12 @@ export const socialNetworks = [
     {
         id: 1,
         logo: <Youtube size={30} strokeWidth={1} />,
-        src: "#!",
+        src: "https://www.youtube.com/watch?v=4BdbWEnHmNc",
     },
     {
         id: 2,
         logo: <Linkedin size={30} strokeWidth={1} />,
-        src: "#!",
+        src: "https://www.linkedin.com/in/luis-lovos-7936b0249/",
     },
     {
         id: 3,
