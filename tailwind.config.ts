@@ -14,7 +14,7 @@ export default {
       },
       backgroundImage: {
         "gradient-cover": 
-        "linear-gradient(90.21deg, rgba(34, 27, 238, 0.5) -5.91%, rgba(2, 2, 29, 0.5) 111.58%)",
+        "linear-gradient(90.21deg, rgb(2, 0, 134) -5.91%, rgb(0, 0, 0) 111.58%)",
       }
     },
   },

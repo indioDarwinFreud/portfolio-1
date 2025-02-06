@@ -4,11 +4,11 @@
 
 html, body {
   color: #fff;
-  background: #1f1934;
+  background: #06001b;
 }
 
 main{
-  background: #393a47;
+  background: #53139c;
   height: 100vh;
   height: 100dvh;
 }
@@ -16,7 +16,7 @@ main{
 .swiper-horizontal > .swiper-pagination-bullets .swiper-pagination-bullet,
 .swiper-pagination-horizontal.swiper-pagination-bullets
   .swiper-pagination-bullet {
-  background-color: #f5741c;
+  background-color: #f51c1c;
 
 }
 

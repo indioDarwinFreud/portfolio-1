@@ -34,12 +34,13 @@ const Introduction = () => {
                         />
                     </h1>
                     <p className='mx-auto mb-2 text-xl md:mx-0 md:mb-8'>
-                        Como desarrollador me dedico a combinar diseño y funcionalidad para crear experiencias digitales impactantes y accesibles.
+                        Como desarrollador me dedico a combinar diseño y 
+                        funcionalidad para crear experiencias digitales impactantes y accesibles.
                     </p>
                     <div className='fles item-center justify-center gap-3 md:justify-start md:gap-10'>
                         <Link
                             href="/projects"
-                            className='px-3 py-2 transition-all border-2 cursor-pointer text-md 
+                            className='px- py-2 transition-all border-2 cursor-pointer text-md 
                          w-fit rounded-xl hover:shadow-xl hover:shadow-white/50' >
                             Ver proyectos
                         </Link>
