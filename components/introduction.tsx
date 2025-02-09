@@ -4,6 +4,7 @@ import Image from 'next/image'
 import Link from 'next/link';
 import { TypeAnimation } from 'react-type-animation';
 
+
 const Introduction = () => {
     return (
         <div className='z-20 w-full bg-darkBg/60'>
