@@ -1,6 +1,6 @@
 import Projects from "@/components/projects";
-import ContainerPage from "@/components/container";
-import TransitionPage from "@/components/transition-page";
+
+
 
 const ProjectsPage = () => {
     return (
