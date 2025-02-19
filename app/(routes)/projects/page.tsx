@@ -27,6 +27,7 @@ const ProjectsPage = () => {
                 <div>
                     <Projects />
                 </div>
+                
 
             </div>
         </>
