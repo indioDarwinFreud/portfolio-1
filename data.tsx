@@ -86,10 +86,10 @@ export const dataAboutPage = [
     },
     {
         id: 4,
-        title: "Prácticas Grado",
-        subtitle: "WebWizards Inc.",
-        description: "Únete a nosotros mientras creamos sitios web y aplicaciones interactivas que sorprenden y deleitan a nuestros clientes. Si tienes pasión por el diseño y la programación, y disfrutas colaborar en un entorno creativo, ¡queremos conocerte!        ",
-        date: "Mar 2018",
+        title: "C.R.U.D",
+        subtitle: "Python",
+        description: "Implementación de operaciones básicas de creación, lectura, actualización y eliminación de datos en una base de datos.",
+        date: "2021",
     },
 ]
 
@@ -104,21 +104,21 @@ export const dataCounter = [
     {
         id: 1,
         endCounter: 2,
-        text: "Bases de datos rel/no rel",
+        text: "Años Bases de datos rel/no rel",
         lineRight: true,
         lineRightMobile: false,
     },
     {
         id: 2,
-        endCounter: 220,
-        text: "Proyectos finalizados",
+        endCounter: 1,
+        text: "Años FullStack",
         lineRight: true,
         lineRightMobile: true,
     },
     {
         id: 3,
-        endCounter: 30,
-        text: "Premios ganadores",
+        endCounter: 1,
+        text: "Años C.R.U.D",
         lineRight: false,
         lineRightMobile: false,
     },
