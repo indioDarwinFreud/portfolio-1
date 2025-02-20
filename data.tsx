@@ -65,17 +65,17 @@ export const itemsNavbar = [
 export const dataAboutPage = [
     {
         id: 1,
-        title: "Frontend Developer",
-        subtitle: "TechSolutions",
-        description: "Colabora con un equipo dinámico para desarrollar interfaces de usuario atractivas y funcionales que impulsen el éxito de nuestros clientes en el mundo digital.",
-        date: "Nov 2023 ",
+        title: "FrontEnd" + " " + "BackEnd",
+        subtitle: "React"+" "+"JavaScript",
+        description: "Desarrollo de interfaces atractivas e interactivas, para un mejor manejo enfocado para el usuario, implementando una base solida perfectamente diseñada.",
+        date: "Dic 2024 ",
     },
     {
         id: 2,
-        title: "Creador de Experiencias Digitales",
-        subtitle: "PixelCrafters",
-        description: "Trabaja en proyectos emocionantes que desafían los límites de la creatividad y la tecnología. Únete a nosotros mientras creamos experiencias digitales cautivadoras que inspiran y cautivan a nuestros usuarios.",
-        date: "May 2021",
+        title: "Bases de datos",
+        subtitle: "MySQL"+" "+"MongoDB",
+        description: "Armado y maquetado de estructuras útiles para insertar y organizar datos",
+        date: "2022-2023",
     },
     {
         id: 3,
@@ -96,8 +96,8 @@ export const dataAboutPage = [
 export const dataCounter = [
     {
         id: 0,
-        endCounter: 10,
-        text: "Años de experiencia",
+        endCounter: 2,
+        text: "Años React",
         lineRight: true,
         lineRightMobile: true,
     },
