@@ -19,9 +19,14 @@ const ServicesPage = () => {
                         </span>
                     </h1>
                     <p className="mb:3 text-xl text-gray-300">
-                        Ofrezco servicios de desarrollo web frontend especializados en la creación de sitios web y aplicaciones atractivas y funcionales.
-                        Utilizando las últimas tecnologías, como HTML, CSS y JavaScript, diseño interfaces de usuario intuitivas y
-                        responsivas que reflejan la identidad de marca de mis clientes y mejoran su presencia en línea.
+                        Ofrezco servicios de desarrollo full stack, especializados en la creación de sitios web 
+                        y aplicaciones atractivas y funcionales.
+                        Utilizo tecnologías como HTML, CSS, JavaScript, TypeScript 
+                        y React para el frontend, y trabajo con Node.js y Python para el backend. 
+                        Agrego el uso de bases de datos como MongoDB y MySQL.
+                        Diseño interfaces intuitivas y responsivas.
+                        Además, implemento optimización de 
+                        rendimiento, para garantizar soluciones escalables y eficientes.
                     </p>
                     <button className="px-3 py-2 rounded-lg bg-secondary hover:bg-secondary/65">Contacta conmigo</button>
                 </div>
