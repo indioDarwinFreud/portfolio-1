@@ -11,21 +11,8 @@ export const socialNetworks = [
         logo: <Linkedin size={30} strokeWidth={1} />,
         src: "https://www.linkedin.com/in/luis-lovos-7936b0249/",
     },
-    {
-        id: 3,
-        logo: <Twitter size={30} strokeWidth={1} />,
-        src: "#!",
-    },
-    {
-        id: 4,
-        logo: <Rss size={30} strokeWidth={1} />,
-        src: "#!",
-    },
-    {
-        id: 5,
-        logo: <Twitch size={30} strokeWidth={1} />,
-        src: "#!",
-    },
+    
+    
 ];
 
 
