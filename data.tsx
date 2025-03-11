@@ -41,12 +41,7 @@ export const itemsNavbar = [
         icon: <CodeSquare size={25} color="#fff" strokeWidth={1} />,
         link: "/portfolio",
     },
-    {
-        id: 5,
-        title: "Home",
-        icon: <Speech size={25} color="#fff" strokeWidth={1} />,
-        link: "/testimonials",
-    },
+  
 ];
 
 export const dataAboutPage = [
@@ -144,10 +139,10 @@ export const serviceData = [
 export const dataPortfolio = [
     {
         id: 1,
-        title: "Web Pro",
-        image: "/image-1.jpg",
-        urlGithub: "#!",
-        urlDemo: "#!",
+        title: "Gimnacio Web en casa",
+        image: "/imagenPortfolio-1.jpg",
+        urlGithub: "https://github.com/indioDarwinFreud/HomeGym-1",
+        urlDemo: "https://github.com/indioDarwinFreud/HomeGym-1",
     },
     {
         id: 2,
