@@ -24,9 +24,7 @@ const ServicesPage = () => {
                         Utilizo tecnologías como HTML, CSS, JavaScript, TypeScript 
                         y React para el frontend, y trabajo con Node.js y Python para el backend. 
                         Agrego el uso de bases de datos como MongoDB y MySQL.
-                        Diseño interfaces intuitivas y responsivas.
-                        Además, implemento optimización de 
-                        rendimiento, para garantizar soluciones escalables y eficientes.
+                       
                     </p>
                     <button className="px-3 py-2 rounded-lg bg-secondary hover:bg-secondary/65">Contacta conmigo</button>
                 </div>
