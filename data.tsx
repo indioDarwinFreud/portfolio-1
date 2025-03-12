@@ -146,10 +146,10 @@ export const dataPortfolio = [
     },
     {
         id: 2,
-        title: "Desarrollo Web Ágil",
-        image: "/image-2.jpg",
-        urlGithub: "#!",
-        urlDemo: "#!",
+        title: "Consultas",
+        image: "/imagenPortfolio-2.jpg",
+        urlGithub: "https://github.com/indioDarwinFreud/consultas",
+        urlDemo: "https://github.com/indioDarwinFreud/consultas",
     },
     {
         id: 3,
