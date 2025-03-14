@@ -139,7 +139,7 @@ export const serviceData = [
 export const dataPortfolio = [
     {
         id: 1,
-        title: "Gimnacio Web en casa",
+        title: "Gimnasio Web en casa",
         image: "/imagenPortfolio-1.jpg",
         urlGithub: "https://github.com/indioDarwinFreud/HomeGym-1",
         urlDemo: "https://github.com/indioDarwinFreud/HomeGym-1",
@@ -154,47 +154,20 @@ export const dataPortfolio = [
     
 ];
 
-export const dataTestimonials = [ 
+export const dataProject = [ 
     {
-        id: 1,
-        name: "George Snow",
+        name: "Home",
+        name2: "Gym",
         description:
-            "¡Increíble plataforma! Los testimonios aquí son genuinos y me han ayudado a tomar decisiones informadas. ¡Altamente recomendado!",
-        imageUrl: "/profile1.png",
+            "Es una App destinada para todas aquellas personas que necesiten llevar su vida a otro nivel. La App ofrece una amplia variedad de funciones, donde cada cliente contará con el seguimiento de profesionales, en el tema de la gastronomía saludable, y el ejercicio (nutricionistas y preparadores físicos).",
+        image:"/HomeGym.PNG",
     },
+
     {
-        id: 2,
-        name: "Juan Pérez",
+        name: "Cosul",
+        name2: "tas",
         description:
-            "Me encanta la variedad de testimonios disponibles en esta página. Es inspirador ver cómo otras personas han superado desafíos similares a los míos. ¡Gracias por esta invaluable fuente de motivación!",
-        imageUrl: "/profile2.png",
-    },
-    {
-        id: 3,
-        name: "María García",
-        description:
-            "Excelente recurso para obtener opiniones auténticas sobre diferentes productos y servicios. Me ha ayudado mucho en mis compras en línea. ¡Bravo por este sitio!",
-        imageUrl: "/profile3.png",
-    },
-    {
-        id: 4,
-        name: "Laura Snow",
-        description:
-            "¡Qué descubrimiento tan fantástico! Los testimonios aquí son honestos y detallados. Me siento más seguro al tomar decisiones después de leer las experiencias compartidas por otros usuarios.",
-        imageUrl: "/profile4.png",
-    },
-    {
-        id: 5,
-        name: "Carlos Sánchez",
-        description:
-            "Una joya en la web. Los testimonios son fáciles de encontrar y están bien organizados. ¡Definitivamente mi destino número uno cuando necesito referencias confiables!",
-        imageUrl: "/profile5.png",
-    },
-    {
-        id: 6,
-        name: "Antonio Martínez",
-        description:
-            "¡Fantástico recurso para aquellos que buscan validación antes de tomar decisiones importantes! Los testimonios aquí son veraces y realmente útiles. ¡Gracias por simplificar mi proceso de toma de decisiones!",
-        imageUrl: "/profile6.png",
+            "App creada con el objetivo de brindar un servicio de consultas, donde se podrá subir datos y consultarlos.",
+        image:"/ConsultasParaSlider.png",
     },
 ];
