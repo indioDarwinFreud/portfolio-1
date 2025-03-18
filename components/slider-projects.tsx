@@ -29,7 +29,7 @@ const SliderProject = () => {
             }}
 
             modules={[Pagination]}
-            className="h-[500px] md:w-[850px]">
+            className="h-[500px] md:w-[850px] md:h-[420px] w-[330px]">
             {dataProject.map((item, index) => (
                 <SwiperSlide key={index}>
                     <div className="flex px-20 py-4 h-auto md:h-[500px] rounded-lg 
