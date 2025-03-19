@@ -29,23 +29,23 @@ const SliderProject = () => {
             }}
 
             modules={[Pagination]}
-            className="h-[500px] md:w-[850px] md:h-[420px] w-[330px]">
+            className="h-[500px] md:w-[850px] md:h-[520px] w-[330px] ">
             {dataProject.map((item, index) => (
                 <SwiperSlide key={index}>
-                    <div className="flex px-20 py-4 h-auto md:h-[500px] rounded-lg 
-                cursor-pointer bg-[rgba(0,0,0,0.17)] sm:flex-col gap-x-6 sm:gap-x-0 
-                group hover:bg-[rgba(36,25,71,0.15)] transition-all duration-300 
+                    <div className=" px-20 py-4 md:h-[520px] h-[500px]
+                cursor-pointer bg-[rgba(0,0,0,0.17)] sm:flex-col gap-x-6 
+                group hover:bg-[rgba(36,25,71,0.15)] 
                 hover:border-secondary border-2 ">
-                        <h1 className="text-2xl leading-tight text-center md:text-left md:text-4xl md:mb-5">
+                        <h1 className="text-2xl leading-tight text-center md:text-4xl md:mb-1 ">
                             {item.name}
                             <span className="font-bold text-secondary">
                                 {item.name2}
                             </span>
                         </h1>
-                        <div className="w-full h-40 md:h-64 flex justify-center items-center">
-                            <img src={item.image} className="w-auto h-full object-contain" />
+                        <div className="w-full h-auto">
+                            <img src={item.image} />
                         </div>
-                        <p className="text-xl ">{item.description} </p>
+                        <p className="mb:3 text-xl text-gray-300">{item.description} </p>
                     </div>
 
                 </SwiperSlide>
