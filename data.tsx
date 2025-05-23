@@ -151,6 +151,14 @@ export const dataPortfolio = [
         urlGithub: "https://github.com/indioDarwinFreud/consultas",
         urlDemo: "https://github.com/indioDarwinFreud/consultas",
     },
+    {
+        id: 3,
+        title: "Creador de CV",
+        image: "/CreadorCV.png",
+        urlGithub: "https://github.com/indioDarwinFreud/mongo-node-task-crud",
+        urlDemo: "https://github.com/indioDarwinFreud/mongo-node-task-crud",
+    },
+    
     
 ];
 
@@ -164,10 +172,18 @@ export const dataProject = [
     },
 
     {
-        name: "Cosul",
-        name2: "tas",
+        name: "Cons",
+        name2: "ultas",
         description:
             "App creada con el objetivo de brindar un servicio de consultas, donde se podrá subir datos y consultarlos.",
         image:"/ConsultasParaSlider.png",
+    },
+
+     {
+        name: "Creador d",
+        name2: "e CV ver.1",
+        description:
+            "Excelente aplicación sencilla, muy útil, para generar un cv básico, correcto, y sin complicaciones.",
+        image:"/SamiPortfolioHome.PNG",
     },
 ];
