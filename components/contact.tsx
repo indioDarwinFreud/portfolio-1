@@ -3,6 +3,7 @@ import Link from "next/link"
 const Contact = () => {
     return (
         <div className="flex h-[calc(150vh-150px)] items-center justify-center ">
+            <form action ="https://formsubmit.co/luisestebanlovos@email.com" method="POST" />
             <div className="bg-black text-white rounded-md border-2 border-secondary py-5 px-10 bg-opacity-70">
                 <h1 className="text-4xl text-center font-bold my-2">Contáctenos</h1>
                 <form>
@@ -10,7 +11,7 @@ const Contact = () => {
                     <input
                         id="nombre"
                         type="text"
-                        placeholder="Nombre"
+                        name="Nombre"
                         className="w-full bg-zinc-700 text-white px-4 py-2 rounded-md my-2"
                         autoFocus
                     />
@@ -19,14 +20,14 @@ const Contact = () => {
                     <input
                         id="mail"
                         type="email"
-                        placeholder="Correo electrónico"
+                        name="Correo electrónico"
                         className="w-full bg-zinc-700 text-white px-4 py-2 rounded-md my-2"
                     />
 
                     <label htmlFor="mensaje" className="block mt-2 mb-1">Mensaje</label>
                     <textarea
                         id="mensaje"
-                        placeholder="Escribe su mensaje..."
+                        name="Escribe su mensaje..."
                         className="w-full bg-zinc-700 text-white px-4 py-2 rounded-md my-2"
                         rows={5}
                     />
