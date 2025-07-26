@@ -38,7 +38,10 @@ const Contact = () => {
                     required
                 />
 
-                <button 
+                <input type= "hidden" name= "_captcha" value= "false" />
+                <input type="hidden" name="_next" value="/" />
+                <button
+                    
                     type="submit"
                     className="text-2xl italic bg-black hover:bg-secondary px-4 py-1 rounded-sm border-secondary border-2 text-white transition-all duration-300 mt-4"
                 >
