@@ -2,11 +2,11 @@ import Link from "next/link";
 
 const Contact = () => {
     return (
-        <div className="flex h-[calc(150vh-150px)] items-center justify-center ">
+        <div className="flex h-[calc(200vh-150px)] items-center justify-center ">
             <form 
                 action="https://formsubmit.co/luisestebanlovos@gmail.com"
                 method="POST"
-                className="bg-black text-white rounded-md border-2 border-secondary py-5 px-10 bg-opacity-70"
+                className="bg-black text-white rounded-md border-2 border-secondary py-5 px-60 bg-opacity-70"
             >
                 <h1 className="text-4xl text-center font-bold my-2">Contáctenos</h1>
 
