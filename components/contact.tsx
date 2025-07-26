@@ -39,7 +39,7 @@ const Contact = () => {
                 />
 
                 <input type= "hidden" name= "_captcha" value= "false" />
-                <input type="hidden" name="_next" value="/" />
+                <input type="hidden" name="_next" value="http://localhost:3000/thank-you" />
                 <button
                     
                     type="submit"
