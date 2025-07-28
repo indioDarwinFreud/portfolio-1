@@ -1,13 +1,9 @@
-const ThankYouContent = () => {
+const ThankYou = () => {
   return (
-    <div className="text-center text-white mt-20">
-      <h1 className="text-4xl font-bold mb-4">¡Gracias por contactarte!</h1>
-      <p className="text-xl">Nos pondremos en contacto a la brevedad.</p>
-      <a href="/" className="underline text-secondary mt-6 block text-lg">
-        Volver al inicio
-      </a>
+    <div className="flex items-center justify-center min-h-screen bg-black text-white">
+      <h1 className="text-4xl font-bold">¡Gracias por contactarnos!</h1>
     </div>
   );
 };
 
-export default ThankYouContent;
+export default ThankYou;
